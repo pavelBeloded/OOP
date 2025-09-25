@@ -1,0 +1,15 @@
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.AssemblyInfoInputs.cache
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.AssemblyInfo.cs
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.csproj.CoreCompileInputs.cache
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.sourcelink.json
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\bin\Debug\net9.0\lab_4.exe
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\bin\Debug\net9.0\lab_4.deps.json
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\bin\Debug\net9.0\lab_4.runtimeconfig.json
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\bin\Debug\net9.0\lab_4.dll
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\bin\Debug\net9.0\lab_4.pdb
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.dll
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\refint\lab_4.dll
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.pdb
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\lab_4.genruntimeconfig.cache
+E:\University\Сем_3\ООП\lab_4\lab_4\lab_4\obj\Debug\net9.0\ref\lab_4.dll

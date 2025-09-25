@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\intelligentbeing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\intelligentbeing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\transformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\transformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|e:\\university\\\u0441\u0435\u043C_3\\\u043E\u043E\u043F\\lab_4\\lab_4\\lab_4\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F650F6B2-36DB-4D47-BEF2-5C045EC68718}|lab_4\\lab_4.csproj|solutionrelative:lab_4\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Printer.cs",
+              "RelativeDocumentMoniker": "lab_4\\Printer.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Printer.cs",
+              "RelativeToolTip": "lab_4\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:43:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Car.cs",
+              "RelativeDocumentMoniker": "lab_4\\Car.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Car.cs",
+              "RelativeToolTip": "lab_4\\Car.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA8wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:36:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transformer.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Transformer.cs",
+              "RelativeDocumentMoniker": "lab_4\\Transformer.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Transformer.cs",
+              "RelativeToolTip": "lab_4\\Transformer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAzwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:28:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Human.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Human.cs",
+              "RelativeDocumentMoniker": "lab_4\\Human.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Human.cs",
+              "RelativeToolTip": "lab_4\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:48:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntelligentBeing.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\IntelligentBeing.cs",
+              "RelativeDocumentMoniker": "lab_4\\IntelligentBeing.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\IntelligentBeing.cs",
+              "RelativeToolTip": "lab_4\\IntelligentBeing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:44:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Engine.cs",
+              "RelativeDocumentMoniker": "lab_4\\Engine.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Engine.cs",
+              "RelativeToolTip": "lab_4\\Engine.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:35:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Vehicle.cs",
+              "RelativeDocumentMoniker": "lab_4\\Vehicle.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Vehicle.cs",
+              "RelativeToolTip": "lab_4\\Vehicle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:32:33.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDrivable.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\IDrivable.cs",
+              "RelativeDocumentMoniker": "lab_4\\IDrivable.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\IDrivable.cs",
+              "RelativeToolTip": "lab_4\\IDrivable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:29:32.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "lab_4\\Program.cs",
+              "ToolTip": "E:\\University\\\u0421\u0435\u043C_3\\\u041E\u041E\u041F\\lab_4\\lab_4\\lab_4\\Program.cs",
+              "RelativeToolTip": "lab_4\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwFUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:28:41.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

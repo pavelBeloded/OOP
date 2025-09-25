@@ -7,10 +7,10 @@ namespace Lab
     {
         static void Main()
         {
-            //Section_types();
-            //Section_string();   
-            //section_Arrays();
-            //Section_Tuples();
+            Section_types();
+            Section_String();
+            section_Arrays();
+            Section_Tuples();
 
             (int, int) findMinMax(int[] array)
             {
@@ -164,7 +164,7 @@ namespace Lab
             string lit3 = "Он сказал: \"Привет\"";
 
             Console.WriteLine($"Сравнение Equals(lit1, \"Hello\"): {string.Equals(lit1, "Hello")}");
-            Console.WriteLine($"String.Compare(lit1, lit3): {string.Compare(lit1, lit3)} (0 — равны, <0 — меньше, >0 — больше)\n");
+            Console.WriteLine($"String.Compare(lit1, lit3): {string.Compare(lit1, lit3)} (0  — равны, <0 — меньше, >0 — больше)\n");
 
 
             string a = "яблоко", b = "банан", c = "вишня";

@@ -1,0 +1,15 @@
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\bin\Debug\net9.0\lab_2_student.exe
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\bin\Debug\net9.0\lab_2_student.deps.json
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\bin\Debug\net9.0\lab_2_student.runtimeconfig.json
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\bin\Debug\net9.0\lab_2_student.dll
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\bin\Debug\net9.0\lab_2_student.pdb
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.AssemblyInfoInputs.cache
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.AssemblyInfo.cs
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.csproj.CoreCompileInputs.cache
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.sourcelink.json
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.dll
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\refint\lab_2_student.dll
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.pdb
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\lab_2_student.genruntimeconfig.cache
+E:\University\Сем_3\ООП\lab_2\lab_2\lab_2_student\obj\Debug\net9.0\ref\lab_2_student.dll

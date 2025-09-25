@@ -1,0 +1,15 @@
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\bin\Debug\net9.0\Lab_01.exe
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\bin\Debug\net9.0\Lab_01.deps.json
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\bin\Debug\net9.0\Lab_01.runtimeconfig.json
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\bin\Debug\net9.0\Lab_01.dll
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\bin\Debug\net9.0\Lab_01.pdb
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.AssemblyInfoInputs.cache
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.AssemblyInfo.cs
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.csproj.CoreCompileInputs.cache
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.sourcelink.json
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.dll
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\refint\Lab_01.dll
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.pdb
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\Lab_01.genruntimeconfig.cache
+E:\University\Сем_3\ООП\lab_1\Lab_01\Lab_01\obj\Debug\net9.0\ref\Lab_01.dll
