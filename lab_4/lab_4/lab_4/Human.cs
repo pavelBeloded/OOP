@@ -5,15 +5,25 @@ namespace lab_4
     internal class Human : IntelligentBeing, IDrivable
     {
         private Car? _car;
-
-        public Human(string name, int iq) : base(name, iq)
+        struct HumanInfo
         {
-            _car = null;
+            public int birthYear;
         }
 
-        public Human(string name, int iq, Car car) : base(name, iq)
+        HumanInfo info;
+
+        public int BirthYear { get => info.birthYear; set => info.birthYear = value; }
+        public Human(string name, int iq, int year) : base(name, iq)
+        {
+            _car = null;
+            this.info.birthYear = year;
+        }
+
+        public Human(string name, int iq, int year, Car car) : base(name, iq)
         {
             _car = car;
+            this.info.birthYear = year;
+
         }
 
         public override void Speak()
@@ -70,7 +80,7 @@ namespace lab_4
             return $"Human from interface: {Name} is a driver";
         }
 
-        public override bool Equals(object obj)
+        public override bool Equals(object? obj)
         {
             if (obj is Human other)
             {
@@ -87,7 +97,7 @@ namespace lab_4
         public override string ToString()
         {
             string carInfo = _car != null ? $"Drives: {_car.Name}" : "No car";
-            return $"Human: {Name}, IQ: {IQ}, {carInfo}";
+            return $"Human: {Name}, IQ: {IQ},Year: {this.info.birthYear} , {carInfo}";
         }
 
         public Car Car
