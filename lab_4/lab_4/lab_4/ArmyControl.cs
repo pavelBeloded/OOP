@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,6 +25,7 @@ namespace lab_4
 
         public void PrintTransformersByPower(int power)
         {
+            Debug.Assert(army != null, "army was not initialized");
             var transformers = army.Army.OfType<Transformer>()
                 .Where(t => t.Power == power);
 

@@ -9,6 +9,14 @@ namespace lab_4
 
         public IntelligentBeing(string name, int iq)
         {
+            if(string.IsNullOrEmpty(name))
+            {
+                throw new InvalidParameterException(nameof(name), "Name cannot be null or empty.");
+            }
+            if (iq <= 0)
+            {
+                throw new InvalidParameterException(nameof(iq), "Iq must be a positiv number");
+            }
             Name = name;
             IQ = iq;
         }

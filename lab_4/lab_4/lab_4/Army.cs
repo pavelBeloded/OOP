@@ -28,6 +28,10 @@ namespace lab_4
 
         public void addSoldier(IntelligentBeing soldier)
         {
+            if (soldier == null)
+            {
+                throw new ArgumentNullException(nameof(soldier), "Cannot add a null soldier to the army.");
+            }
             army.Add(soldier);
         }
 
@@ -42,6 +46,11 @@ namespace lab_4
             {
                 Console.WriteLine(soldier.ToString());
             }
+        }
+
+        public IntelligentBeing getSoldierByIndex(int index)
+        {
+            return army[index];
         }
     }
 }
